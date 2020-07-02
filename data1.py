@@ -81,4 +81,5 @@ ax.xaxis.set_major_formatter(hours)
 ax.plot(day_ravenna, y1, 'r', day_faenza, y2, 'r', day_cesena, y3, 'r')
 ax.plot(day_milano, y4, 'g', day_asti, y5, 'g', day_torino, y5, 'g')
 
+
 plt.show()
